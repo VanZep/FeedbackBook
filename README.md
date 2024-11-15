@@ -20,7 +20,7 @@ git clone git@github.com:VanZep/YaMDb.git
 ```
 2. Перейдите в каталог проекта:
 ```
-cd Yatube
+cd YaMDb
 ```
 3. Создайте виртуальное окружение:
 + *для Windows*
