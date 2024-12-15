@@ -53,7 +53,7 @@ pip install -r requirements.txt
 6. Выполните миграции:
 + *для этого перейдите в каталог с файлом manage.py*
 ```
-cd api_yamdb
+cd feedbackbook
 ```
 + *затем выполните команду*
 ```
